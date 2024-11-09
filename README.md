@@ -16,4 +16,5 @@ Un utilisateur possédant ce grade pourra également créer de nouvelles catégo
 
 En ce qui concerne <ins>les paramètres supplémentaires</ins> qui seront accessibles peut importe le grade, un thème sombre sera disponible en fonction des désirs de l’utilisateur du site. 
 
-![alt](https://https://ibb.co/NKdxsfC)
+
+![Capture](https://github.com/user-attachments/assets/0cc3e405-90cd-408e-a8cc-2d687a826416)

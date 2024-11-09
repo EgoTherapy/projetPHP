@@ -1,0 +1,164 @@
+body
+{
+    margin : 0;
+    padding : 0;
+    font-family: sans-serif;
+    background-color: #01011A;
+}
+.formulaire 
+{
+    width : 30%;
+    padding : 2%;
+    margin: 0 auto;
+    margin-top: 7.5%;
+    text-align: center;
+    border: 2px solid #4080FF;
+    border-radius: 25px;
+}
+.formulaire h1 
+{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.formulaire input[type="text"], .formulaire input[type="password"] 
+{
+    border: 0;
+    background: none;
+    display: block;
+    margin : 4% auto;
+    text-align: center;
+    border: 2px solid #4080FF;
+    padding: 3% 5%;
+    width : 50%;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    transition: 0.25s;
+}
+.formulaire input[type="text"]:focus, .formulaire input[type="password"]:focus 
+{
+    width: 60%;
+    border-color: #33FF99;
+} 
+.formulaire input[type="submit"] 
+{
+    border: 0;
+    background: none;
+    display: block;
+    margin : 4% auto;
+    text-align: center;
+    border: 2px solid #33FF99;
+    padding: 3% 7%;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.formulaire input[type="submit"]:hover 
+{
+    background-color: #33FF99;
+}
+
+div 
+{
+    color: white;
+}
+
+#aInscription, #aConnexion
+{
+    color: #33FF99;
+    text-decoration: underline;
+}
+.error 
+{
+    color: #f62323;
+}
+
+.inputPerso
+{
+    background-color: #6c757d;
+    color: white;
+    padding: 6.5px;
+    border: none;
+    border-radius: 3px;
+}
+
+.inputPerso:hover
+{
+    background-color: #494f52;
+}
+
+.inputPerso1
+{
+    background-color: #6c757d;
+    color: white;
+    padding: 6.5px;
+    border: none;
+    border-radius: 3px;
+}
+
+.inputPerso1:hover
+{
+    background-color: #494f52;
+}
+
+.inputPerso2
+{
+    background-color: #6c757d;
+    color: white;
+    padding: 6.5px;
+    border: none;
+    border-radius: 3px;
+}
+
+.inputPerso2:hover
+{
+    background-color: #494f52;
+}
+
+.BoutonSurLaDroite
+{
+    float: right;
+}
+
+h5 {
+    display: inline;
+}
+
+.formAdmin {
+    width : 50%;
+    padding : 2%;
+    margin: 0 auto;
+    margin-top : 1%;
+    text-align: center;
+    border: 2px solid #4080FF;
+    border-radius: 25px;
+}
+
+legend {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold; 
+}
+
+.formAdmin input[type="submit"] 
+{
+    border: 0;
+    background: none;
+    display: block;
+    margin : 0 auto;
+    text-align: center;
+    border: 2px solid #33FF99;
+    padding: 1% 7%;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.formAdmin input[type="submit"]:hover 
+{
+    background-color: #33FF99;
+}
